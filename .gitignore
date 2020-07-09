@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Dependencies/hawaii.sqlite
+Dependencies/app.py.ipynb
+Dependencies/climate_analysis.ipynb
+app.py.py
