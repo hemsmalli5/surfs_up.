@@ -1,0 +1,21 @@
+The statistical summary is for June month for all stations shows that the Std is 0.33 and have imum precipitation of 4.43 whereas for Dec month Std is 0.54 with a maximum precipitation of 6.42. Also Precipitation Mean increased by 0.0805 between June and December throughout all years.
+
+count	1574.000000
+mean	0.136360
+std	0.335731
+min	0.000000
+25%	0.000000
+50%	0.020000
+75%	0.120000
+max	4.430000
+
+
+precipitation
+count	1405.000000
+mean	0.216819
+std	0.541399
+min	0.000000
+25%	0.000000
+50%	0.030000
+75%	0.150000
+max	6.420000
